@@ -1,11 +1,11 @@
-<div align="center" style="background-color: red;color: yellow;">
+<div align="center">
   <h2> Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-  <h1> My name is Ghazali <a href="https://2kabhishek.github.io" target="_blank"></a> </h1>
+  <h2> My name is Ghazali <a href="https://gshacklebolt.github.io" target="_blank"></a> </h2>
   <h3> I am a Programmer 💻| Bibliophile 📚| Tech Savvy 📱| Love fiction movies/tv-series 🤖🧟🧙‍♂️</h3>
  
 
 <a href="https://github.com/2KAbhishek">
-  <img src="https://github-readme-stats.vercel.app/api?username=gshacklebolt&count_private=true&show_icons=true&theme=dark&bg_color=BE5832" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gshacklebolt&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
   
    <a href="mailto:ghazali123456@gmail.com" target="_blank">Mail </a> | 
    <a href="https://linkedin.com/in/gshacklebolt" target="_blank">LinkedIn </a> | 
