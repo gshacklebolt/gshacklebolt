@@ -4,7 +4,7 @@
   <h3> I am a Programmer 💻| Bibliophile 📚| Tech Savvy 📱| Love fiction movies/tv-series 🤖🧟🧙‍♂️</h3>
  
 
-<a href="https://github.com/2KAbhishek">
+<a href="https://github.com/gshacklebolt">
   <img src="https://github-readme-stats.vercel.app/api?username=gshacklebolt&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
   
    <a href="mailto:ghazali123456@gmail.com" target="_blank">Mail </a> | 
@@ -14,11 +14,11 @@
    <a href="https://www.hackerrank.com/gshacklebolt" target="_blank">Hackerrank</a>
 </div>
 
-<!-- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning Servlet
-- 👯 I’m looking to collaborate on Web Development
-<!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about 
+- 🔭 I’m currently working on ... Java
+- 🌱 I’m currently learning ... Servlet
+- 👯 I’m looking to collaborate on ... Web Development
+- 🤔 I’m looking for help with ... jQuery
+- 💬 Ask me about ... Anything 
 - 📫 How to reach me: [Gmail](mailto:ghazali123456@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a Potterhead
