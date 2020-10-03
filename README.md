@@ -7,11 +7,11 @@
 <a href="https://github.com/gshacklebolt">
   <img src="https://github-readme-stats.vercel.app/api?username=gshacklebolt&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
   
-   <a href="mailto:ghazali123456@gmail.com" target="_blank"><img alt="Gmail" src="./icons/gmail.png" /></a> | 
-   <a href="https://linkedin.com/in/gshacklebolt" target="_blank"><img alt="LinkedIn" src="./icons/linkedin.png" />< </a> | 
-   <a href="https://twitter.com/gshacklebolt" target="_blank"><img alt="Twitter" src="./icons/twitter.png" />< </a> | 
-   <a href="https://instagram.com/gshacklebolt" target="_blank"><img alt="Instagram" src="./icons/insta.png" />< </a> | 
-   <a href="https://www.hackerrank.com/gshacklebolt" target="_blank"><img alt="Hackerrank" src="./icons/hackerrank.png" /><</a>
+   <a href="mailto:ghazali123456@gmail.com" target="_blank"><img alt="Gmail" src="./icons/gmail.png" height="50" width="50" /></a> | 
+   <a href="https://linkedin.com/in/gshacklebolt" target="_blank"><img alt="LinkedIn" src="./icons/linkedin.png" height="50" width="50" />< </a> | 
+   <a href="https://twitter.com/gshacklebolt" target="_blank"><img alt="Twitter" src="./icons/twitter.png" height="50" width="50" />< </a> | 
+   <a href="https://instagram.com/gshacklebolt" target="_blank"><img alt="Instagram" src="./icons/insta.png" height="50" width="50" />< </a> | 
+   <a href="https://www.hackerrank.com/gshacklebolt" target="_blank"><img alt="Hackerrank" src="./icons/hackerrank.png" height="50" width="50" /><</a>
 </div>
 
 - 🔭 I’m currently working on ... Java
