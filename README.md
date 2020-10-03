@@ -19,6 +19,6 @@
 - 👯 I’m looking to collaborate on ... Web Development
 - 🤔 I’m looking for help with ... jQuery
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: [Gmail](mailto:ghazali123456@gmail.com)
+- 📫 How to reach me: [![Gmail](mailto:ghazali123456@gmail.com)]
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a Potterhead
