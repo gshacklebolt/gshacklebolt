@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+  <h2> Hi there! Welcome to my GitHub profile 👋</h2>
   <h2> My name is Ghazali <a href="https://gshacklebolt.github.io" target="_blank"></a> </h2>
   <h3> I am a Programmer 💻| Bibliophile 📚| Tech Savvy 📱| Love fiction movies/tv-series 🤖🧟🧙‍♂️</h3>
  
