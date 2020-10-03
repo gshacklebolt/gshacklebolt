@@ -9,7 +9,7 @@
   
    <a href="mailto:ghazali123456@gmail.com" target="_blank">Mail </a> | 
    <a href="https://linkedin.com/in/gshacklebolt" target="_blank">LinkedIn </a> | 
-   <a href="https://twitter.com/gshacklebolt" target="_blank">Twitter </a> | 
+   <a href="https://twitter.com/gshacklebolt" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gshacklebolt?label=Ghazali&style=social"> </a> | 
    <a href="https://instagram.com/gshacklebolt" target="_blank">Instagram </a> | 
    <a href="https://www.hackerrank.com/gshacklebolt" target="_blank">Hackerrank</a>
 </div>
