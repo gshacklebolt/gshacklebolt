@@ -8,15 +8,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gshacklebolt&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
 </div>
 
-- 🔭 I’m currently working on ... Java
-- 🌱 I’m currently learning ... Servlet
+- 🔭 I’m currently working on ... Angular/ServiceNow
+- 🌱 I’m currently learning ... TypeScript
 - 👯 I’m looking to collaborate on ... Web Development
-- 🤔 I’m looking for help with ... jQuery
+- 🤔 I’m looking for help with ... Angular
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: <a href="mailto:ghazali123456@gmail.com" target="_blank"><img alt="Gmail" src="./icons/gmail.png" height="20" width="20" /></a> | 
    <a href="https://linkedin.com/in/gshacklebolt" target="_blank"><img alt="LinkedIn" src="./icons/linkedin.png" height="20" width="20" /> </a> | 
    <a href="https://twitter.com/gshacklebolt" target="_blank"><img alt="Twitter" src="./icons/twitter.png" height="20" width="20" /> </a> | 
    <a href="https://instagram.com/gshacklebolt" target="_blank"><img alt="Instagram" src="./icons/insta.png" height="20" width="20" /> </a> | 
    <a href="https://www.hackerrank.com/gshacklebolt" target="_blank"><img alt="Hackerrank" src="./icons/hackerrank.png" height="20" width="20" /> </a>
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a Potterhead
